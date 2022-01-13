@@ -1,0 +1,29 @@
+{
+  "name": "blockchainpoc",
+  "version": "1.0.0",
+  "description": "ProofOfConceptForBlockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evengers/probusblockchain.git"
+  },
+  "keywords": [
+    "crypto",
+    "blockchain",
+    "probus",
+    "evengers",
+    "poc"
+  ],
+  "author": "Evengers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evengers/probusblockchain/issues"
+  },
+  "homepage": "https://github.com/evengers/probusblockchain#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
