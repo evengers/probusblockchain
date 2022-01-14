@@ -11,10 +11,12 @@ see:  https://www.smashingmagazine.com/2020/02/cryptocurrency-blockchain-node-js
 
 2) published to GitHub
 
+3) input data from external file instead of hard-code example (will need to change see below)
+
 
 To-Do
 
-- external file storage for blockchain (for views on storage see: https://bitcoin.stackexchange.com/questions/98788/how-is-data-in-a-blockchain-stored-structure-of-block-and-blockchain)
+- external file storage for computed blockchain (for views on storage see: https://bitcoin.stackexchange.com/questions/98788/how-is-data-in-a-blockchain-stored-structure-of-block-and-blockchain)
  will start with single file.
  
 - add ledger-style .xls to .json ??
