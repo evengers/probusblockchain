@@ -31,14 +31,31 @@ class CryptoBlock {
   }
 }
 
+
+
+
+
+let genesisSeq = 0;
+let genesisTimeStamp = "01/01/2020";
+let genesisDesc = "Initial Block in the Chain";
+let genesisNum = "0";
+
+
+
 class CryptoBlockchain {
+
+
   constructor() {
     this.blockchain = [this.startGenesisBlock()];
     this.difficulty = 4;
   }
+  
   startGenesisBlock() {
-    return new CryptoBlock(0, "01/01/2020", "Initial Block in the Chain", "0");
+    //return new CryptoBlock(0, "01/01/2020", "Initial Block in the Chain", "0");
+    return new CryptoBlock(genesisSeq, genesisTimeStamp, genesisDesc, genesisNum);
   }
+
+   
 
   obtainLatestBlock() {
     return this.blockchain[this.blockchain.length - 1];
@@ -67,6 +84,8 @@ class CryptoBlockchain {
 let smashingCoin = new CryptoBlockchain();
 
 console.log("smashingCoin mining in progress....");
+
+/* replaced by file
 smashingCoin.addNewBlock(
   new CryptoBlock(1, "01/06/2020", {
     sender: "Iris Ljesnjanin",
@@ -82,5 +101,45 @@ smashingCoin.addNewBlock(
     quantity: 100
   })
 );
+*/
+
+
+//SR read blockchain from external file
+/*
+    "sequence": 6,
+    "datestamp": "01/06/2020",
+    "sender": "Betty",
+    "recipient": "Steve",
+    "quantity": 100
+
+*/
+const fs = require('fs')
+
+try {
+  const fileContents = fs.readFileSync('blocks.dat', 'utf8')
+  const data = JSON.parse(fileContents)
+  data.forEach((blockIn) => {
+          if (blockIn.sequence == 0) {
+             smashingCoin.addNewBlock( new CryptoBlock(0, blockIn.datestamp, "Initial Block in the Chain", "0"));
+             console.log("GENESIS FOUND")
+             }else{
+          
+          //  console.log("sequence is:", blockIn.sequence);
+           smashingCoin.addNewBlock(
+           new CryptoBlock(blockIn.sequence, blockIn.datestamp, {
+               sender: blockIn.sender,
+               recipient: blockIn.recipient,
+               quantity: blockIn.quantity
+             })
+             );
+             
+             }//end if else
+             
+        // console.log(blockIn);
+     });
+} catch (err) {
+  console.error(err)
+}
+
 
 console.log(JSON.stringify(smashingCoin, null, 4));
