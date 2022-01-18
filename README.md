@@ -39,8 +39,13 @@ Excellent summary:  https://blockgeeks.com/guides/what-is-blockchain-technology/
 
 Very good developing blockchains overview: https://enappd.com/blog/how-to-develop-a-blockchain-application/4/
 
+<<<<<<< HEAD
 Good video summary: 
 https://www.youtube.com/watch?v=bBC-nXj3Ng4
+=======
+list of blockchains: https://www.gartner.com/reviews/market/blockchain-platforms
+
+>>>>>>> b876256e59647c1915cc84f0f71c498da7452401
 
 
 One of the over 11,000 cryptos ... https://tezos.com/
