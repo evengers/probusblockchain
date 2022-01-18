@@ -39,8 +39,34 @@ Excellent summary:  https://blockgeeks.com/guides/what-is-blockchain-technology/
 
 Very good developing blockchains overview: https://enappd.com/blog/how-to-develop-a-blockchain-application/4/
 
+Good video summary: 
+https://www.youtube.com/watch?v=bBC-nXj3Ng4
+
 
 One of the over 11,000 cryptos ... https://tezos.com/
+
+
+Why there is such a thing as "blockchain as a service"
+
+https://hackernoon.com/a-no-bs-guide-to-the-blockchain-as-a-service-space-part-i-be07c97b54c0
+
+
+https://www.kaleido.io/blockchain-blog/why-blockchain-as-a-service
+
+
+
+the problem with mining:
+https://www.theguardian.com/technology/2022/jan/16/panic-as-kosovo-pulls-the-plug-on-its-energy-guzzling-bitcoin-miners
+
+democracy?
+
+https://www.theguardian.com/commentisfree/2022/jan/15/will-blockchain-fulfil-its-democratic-promise-or-will-it-become-a-tool-of-big-tech
+
+
+
+Stablecoins:
+
+https://quantoz.com/solutions/stablecoins/
 
 
 
@@ -58,6 +84,38 @@ In fact, there are several bitcoin implementations which store them in different
 But they can all agree on what's valid, because of the blockchain. "
   
 
+Tech notes:
 
+Alternative peer-to-peer
+
+https://piyushgarg.hashnode.dev/how-to-build-a-file-transfer-application-with-node-and-webrtc
  
+https://stackoverflow.com/questions/33000811/downloading-torrent-with-node-js
+
+
+https://awesomeopensource.com/project/webtorrent/webtorrent
+
+
+https://javascript.plainenglish.io/building-a-signaling-server-for-simple-peer-f92d754edc85
+
+
+https://peerjs.com/
+
+
+https://github.com/aiham/webrtc-blockchain/tree/master/client/src
+
+
+https://www.youtube.com/watch?v=8N_4Furztjo
+
+
+
+Hyperledger development:
+
+https://medium.com/coinmonks/start-developing-hyperledger-fabric-chaincode-in-node-js-e63b655d98db
+
+
+
+https://diligentdev.medium.com/quasar-writing-a-web-and-mobile-cryptocurrency-app-with-the-same-codebase-ba708bc8d375
+
+
 
