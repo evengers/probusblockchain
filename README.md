@@ -9,7 +9,7 @@ Done:
 1) simple example blockchain created with crypto blocks, hashing, proof of work
 see:  https://www.smashingmagazine.com/2020/02/cryptocurrency-blockchain-node-js/
 
-2) published to GitHub
+2) published to GitHub  ... related aggregator here: https://probuschain.web.app/#/
 
 3) input data from external file instead of hard-code example (will need to change see below)
 
