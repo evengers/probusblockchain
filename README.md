@@ -6,7 +6,7 @@ a simple blockchain along with  links to cryptocurrency and blockchain reference
 
 Done:
 
-1) very simple demonstration example blockchain created with crypto blocks, hashing, proof of work
+1) very simple demonstration/example blockchain created with crypto blocks, hashing, proof of work
 see ... a chain of blocks (linked togeter with hash values) https://probusblockchainpeer.web.app/#/
 
 2) published to GitHub  ... related aggregator listing over 12,000 "cryptos" here: https://probuschain.web.app/#/
