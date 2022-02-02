@@ -1,20 +1,20 @@
 # probusblockchain
 Proof of concept for probus blockchain and cryptocurrency
 
-a simple blockchain along with reference links to cryptocurrency and blockchain references
+a simple blockchain along with  links to cryptocurrency and blockchain references
 
 
 Done:
 
-1) simple example blockchain created with crypto blocks, hashing, proof of work
-see:  https://www.smashingmagazine.com/2020/02/cryptocurrency-blockchain-node-js/
+1) very simple demonstration example blockchain created with crypto blocks, hashing, proof of work
+see ... a chain of blocks (linked togeter with hash values) https://probusblockchainpeer.web.app/#/
 
-2) published to GitHub  ... related aggregator here: https://probuschain.web.app/#/
+2) published to GitHub  ... related aggregator listing over 12,000 "cryptos" here: https://probuschain.web.app/#/
 
 3) input/output data using external document store (Firestore from Google) instead of hard-code example 
 
-4) published very simple demonstration of a chain of blocks (linked togeter with hash values) https://probusblockchainpeer.web.app/#/
-
+4) google sheets portfolio of Blockchain and Crypto etfs 
+5) 
 
 Initial thoughts on To-Do (but given blockchain as service offerings not much point) :
  
