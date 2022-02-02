@@ -11,13 +11,12 @@ see:  https://www.smashingmagazine.com/2020/02/cryptocurrency-blockchain-node-js
 
 2) published to GitHub  ... related aggregator here: https://probuschain.web.app/#/
 
-3) input data from external file instead of hard-code example (will need to change see below)
+3) input/output data using external document store (Firestore from Google) instead of hard-code example 
+
+4) published very simple demonstration of a chain of blocks (linked togeter with hash values) https://probusblockchainpeer.web.app/#/
 
 
-To-Do:
-
-- external file storage for computed blockchain (for views on storage see: https://bitcoin.stackexchange.com/questions/98788/how-is-data-in-a-blockchain-stored-structure-of-block-and-blockchain)
- will start with single file.
+Initial thoughts on To-Do (but given blockchain as service offerings not much point) :
  
 - add ledger-style .xls to .json ?? for ease of ledger use 
 
@@ -38,6 +37,8 @@ Great glossary: https://www.gemini.com/learn/glossary
 Excellent summary:  https://blockgeeks.com/guides/what-is-blockchain-technology/
 
 Very good developing blockchains overview: https://enappd.com/blog/how-to-develop-a-blockchain-application/4/
+
+Summary of some "blockChain as a service" offerings:  https://geekflare.com/blockchain-as-a-service/
 
 <<<<<<< HEAD
 Good video summary: 
