@@ -18,7 +18,7 @@ see ... a chain of blocks (linked togeter with hash values) https://probusblockc
 
 Initial thoughts on To-Do (but given blockchain as service offerings not much point) :
  
-- add ledger-style .xls to .json ?? for ease of ledger use 
+- add ledger-style .xls to .json ?? for ease of ledger demo-use 
 
 - add permissions
 
@@ -26,11 +26,56 @@ Initial thoughts on To-Do (but given blockchain as service offerings not much po
       - replication of data to peers  (commonly now called "distributed" in blockchain discussions)
       - communication of results
 
-- add authentication / public & private key generation
+- add authentication / public & private key generation 
+
+- demo "proof of stake", concensus ... or "notary" variation
 
 
 
 Notes:
+
+
+SOCIAL IMPACT ... FUTURE TRENDS
+
+
+
+FINANCIAL
+
+- See Google Finance tracker / Google sheets https://docs.google.com/spreadsheets/d/1PPBXgKYhR7cJNCvpQbq033jXN-p7cmJe2i_lBeYUyac/edit#gid=887949180
+
+Blockchain (ETF) tickers: 
+BLOK
+BLCN
+LEGR
+BITQ
+BKCH
+DAPP
+KOIN
+
+Crypo tickers:
+BITW
+ETHE
+BITO
+BTF
+GBTC
+
+BTC
+ETH
+
+
+
+
+
+Why the big drop ... ?  https://www.investopedia.com/why-is-bitcoin-price-dropping-5216985?utm_source=term-of-the-day&utm_campaign=dfp&utm_term=26577725&utm_medium=email
+
+
+
+- https://www.investopedia.com/ftx-exchange-5200842?utm_source=term-of-the-day&utm_campaign=dfp&utm_term=26577725&utm_medium=email
+
+
+
+
+OVERVIEWS
 
 Great glossary: https://www.gemini.com/learn/glossary
 
@@ -89,6 +134,16 @@ and many nodes will store those chunks in a database on disk.
 In fact, there are several bitcoin implementations which store them in different ways! 
 But they can all agree on what's valid, because of the blockchain. "
   
+ 
+ ESOTERIC
+  
+  Game theory and cryptos
+   https://www.nasdaq.com/articles/a-look-at-the-game-theory-of-bitcoin-2021-09-13
+   https://blogs.cornell.edu/info2040/2021/09/22/a-look-at-the-game-theory-of-bitcoin-2/
+
+
+
+
 
 Tech notes:
 
