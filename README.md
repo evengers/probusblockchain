@@ -144,6 +144,8 @@ But they can all agree on what's valid, because of the blockchain. "
  ESOTERIC
   
   Game theory and cryptos
+   https://dcxlearn.com/economics/game-theory-and-cryptocurrencies/
+   
    https://www.nasdaq.com/articles/a-look-at-the-game-theory-of-bitcoin-2021-09-13
    https://blogs.cornell.edu/info2040/2021/09/22/a-look-at-the-game-theory-of-bitcoin-2/
 
