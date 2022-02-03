@@ -39,6 +39,9 @@ SOCIAL IMPACT ... FUTURE TRENDS
 
 
 
+
+
+
 FINANCIAL
 
 - See Google Finance tracker / Google sheets https://docs.google.com/spreadsheets/d/1PPBXgKYhR7cJNCvpQbq033jXN-p7cmJe2i_lBeYUyac/edit#gid=887949180
@@ -65,12 +68,15 @@ ETH
 
 
 
-
 Why the big drop ... ?  https://www.investopedia.com/why-is-bitcoin-price-dropping-5216985?utm_source=term-of-the-day&utm_campaign=dfp&utm_term=26577725&utm_medium=email
 
 
 
 - https://www.investopedia.com/ftx-exchange-5200842?utm_source=term-of-the-day&utm_campaign=dfp&utm_term=26577725&utm_medium=email
+
+
+
+
 
 
 
