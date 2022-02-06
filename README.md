@@ -152,8 +152,14 @@ But they can all agree on what's valid, because of the blockchain. "
 
 
 
+BECOME A MINER
 
-Tech notes:
+
+https://www.investopedia.com/best-bitcoin-mining-software-5095403
+
+
+
+TECH NOTES:
 
 Alternative peer-to-peer
 
