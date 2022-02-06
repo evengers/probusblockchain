@@ -156,6 +156,8 @@ BECOME A MINER
 
 https://ethermine.org
 
+https://2miners.com/eth-mining-pool
+
 https://www.investopedia.com/best-bitcoin-mining-software-5095403
 
 
