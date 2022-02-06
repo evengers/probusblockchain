@@ -154,6 +154,7 @@ But they can all agree on what's valid, because of the blockchain. "
 
 BECOME A MINER
 
+https://ethermine.org
 
 https://www.investopedia.com/best-bitcoin-mining-software-5095403
 
