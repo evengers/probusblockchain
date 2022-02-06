@@ -158,6 +158,10 @@ BECOME A MINER
 https://www.investopedia.com/best-bitcoin-mining-software-5095403
 
 
+https://www.investopedia.com/tech/how-does-bitcoin-mining-work/
+
+
+
 
 TECH NOTES:
 
