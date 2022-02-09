@@ -37,7 +37,9 @@ Notes:
 
 SOCIAL IMPACT ... FUTURE TRENDS
 
+how sustainable is it?
 
+https://www.theguardian.com/technology/2022/feb/09/can-bitcoin-be-sustainable-inside-the-norwegian-mine-that-also-dries-wood
 
 
 
