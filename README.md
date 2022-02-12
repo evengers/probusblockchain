@@ -83,6 +83,25 @@ Why the big drop ... ?  https://www.investopedia.com/why-is-bitcoin-price-droppi
 
 
 
+
+CRIME
+
+This week, the U.S. Justice Department (DOJ) announced it confiscated $3.6 billion in cryptocurrency stolen during the 2016 hack of virtual currency exchange Bitfinex, and arrested two suspects attempting to launder the money. Officials said it was the largest financial seizure in the department’s history.
+ 
+Ilya Lichtenstein and his wife, Heather Morgan, both of New York City, were accused of conspiring to launder the proceeds of almost 120,000 bitcoin taken by a hacker who breached Bitfinex’s systems and grabbed the currency through 2,000 unauthorized transactions. They explained the bitcoin went to a digital wallet under Lichtenstein’s control, with some going into accounts owned by him and Morgan. Officials indicated they used search warrants to break into the accounts and collect 94,000 stolen bitcoin.
+ 
+If convicted, Lichtenstein and Morgan face a maximum of 20 years in prison for money laundering and five years for conspiracy to defraud the U.S.
+ 
+ 
+The August 2016 Bitfinex attack was one of the largest cryptocurrency crimes ever, and led to a 20% sell-off of Bitcoin at the time. The DOJ noted the total amount of the theft was $4.5 billion in present value.
+ 
+
+
+
+
+
+
+
 OVERVIEWS
 
 Great glossary: https://www.gemini.com/learn/glossary
