@@ -97,6 +97,12 @@ The August 2016 Bitfinex attack was one of the largest cryptocurrency crimes eve
  
 
 
+STABLE CURRENCY / CENTRAL BANK BACKED
+
+https://www.kitco.com/news/2022-02-02/The-future-of-money-Nearly-100-countries-are-exploring-CBDCs-what-are-the-risks.html
+
+
+https://www.kitco.com/news/2022-02-10/Crypto-has-no-value-it-s-not-even-a-tulip-warns-India-s-central-bank-governor.html
 
 
 
