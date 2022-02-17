@@ -37,6 +37,13 @@ Notes:
 
 SOCIAL IMPACT ... FUTURE TRENDS
 
+
+"... Bitcoin is going to become the currency of social movements ..." very scary
+https://toronto.ctvnews.ca/td-bank-to-hand-convoy-funds-to-court-as-organizers-turn-to-cryptocurrency-1.5778435
+
+
+
+
 how sustainable is it?
 
 https://www.theguardian.com/technology/2022/feb/09/can-bitcoin-be-sustainable-inside-the-norwegian-mine-that-also-dries-wood
