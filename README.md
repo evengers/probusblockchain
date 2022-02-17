@@ -45,6 +45,9 @@ https://markets.businessinsider.com/news/currencies/canadian-trucker-protest-rai
 
 
 
+electricity costs and the role of miners (good distiction here on validator role vs miner role)
+https://ideas4development.org/en/bitcoin-waste-energy/
+
 
 how sustainable is it?
 
