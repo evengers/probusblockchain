@@ -142,6 +142,16 @@ OVERVIEWS
 very good overview of "nodes" and the relationship to miners ... see the graphic on first page
 https://river.com/learn/what-is-a-bitcoin-node/
 
+"... In the case of the Bitcoin blockchain, there are four main types of node: full nodes, super nodes, light nodes, and mining nodes. ..."
+https://thenextweb.com/news/bitcoin-blockchain-nodes-network
+
+"... Nodes validate the blockchain by following a number of rules. 
+When the entire network follows these rules, all nodes should help to produce the same blockchain. 
+It should be noted that validation actually occurs before a block is mined; validation is not the same as consensus. 
+Consensus is reached when the mining nodes agree on the order of transactions, not on what transactions are valid. ..."
+
+
+
 
 
 proof of work vs. proof of stake  ... ethereum 2
