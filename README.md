@@ -181,6 +181,10 @@ But they can all agree on what's valid, because of the blockchain. "
 
 BECOME A MINER
 
+
+https://www.instructables.com/How-to-Make-a-Raspberry-Pi-Crypto-Miner-Dogecoin/
+
+
 https://ethermine.org
 
 https://2miners.com/eth-mining-pool
