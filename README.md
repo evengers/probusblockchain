@@ -136,6 +136,11 @@ https://www.kitco.com/news/2022-02-10/Crypto-has-no-value-it-s-not-even-a-tulip-
 
 OVERVIEWS
 
+proof of work vs. proof of stake  ... ethereum 2
+https://www.coinbase.com/learn/crypto-basics/what-is-ethereum
+
+
+
 Great glossary: https://www.gemini.com/learn/glossary
 
 Excellent summary:  https://blockgeeks.com/guides/what-is-blockchain-technology/
