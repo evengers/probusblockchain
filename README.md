@@ -226,6 +226,8 @@ But they can all agree on what's valid, because of the blockchain. "
    https://blogs.cornell.edu/info2040/2021/09/22/a-look-at-the-game-theory-of-bitcoin-2/
 
 
+what ever happened to SETI@HOME ... and what does that have to do with cypto mining?
+https://cryptomining-blog.com/tag/setihome/
 
 
 BECOME A MINER
