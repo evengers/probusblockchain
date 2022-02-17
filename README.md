@@ -48,6 +48,7 @@ FINANCIAL
 
 
 Futures/Options:
+worth a read ... https://www.cmegroup.com/education/bitcoin/cme-bitcoin-futures-frequently-asked-questions.html
 https://www.cmegroup.com/markets/cryptocurrencies/bitcoin/bitcoin.html
 https://copper.co/2019/04/08/whats-the-future-for-bitcoin-futures
 
