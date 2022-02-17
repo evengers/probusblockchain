@@ -139,6 +139,11 @@ https://www.kitco.com/news/2022-02-10/Crypto-has-no-value-it-s-not-even-a-tulip-
 
 OVERVIEWS
 
+very good overview of "nodes" and the relationship to miners ... see the graphic on first page
+https://river.com/learn/what-is-a-bitcoin-node/
+
+
+
 proof of work vs. proof of stake  ... ethereum 2
 https://www.coinbase.com/learn/crypto-basics/what-is-ethereum
 
