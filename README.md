@@ -54,6 +54,12 @@ how sustainable is it?
 https://www.theguardian.com/technology/2022/feb/09/can-bitcoin-be-sustainable-inside-the-norwegian-mine-that-also-dries-wood
 
 
+cryptomining and COVID?
+https://cryptomining-blog.com/11552-help-foldinghome-covid-19-efforts-with-your-crypto-mining-rigs/
+
+
+
+
 HOW TO  BUY SELL CASH TRANSFER CRYPTOCURRENCY
 
 Canadian crypto ATMS?  and various other ways to get cash
