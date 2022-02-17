@@ -57,7 +57,9 @@ Canadian crypto ATMS?  and various other ways to get cash
 https://blockgeeks.com/how-to-sell-bitcoin-in-canada/
 
 transfer/send to someone (the future for remittance market)
+https://www.coinbase.com/learn/tips-and-tutorials/how-to-send-crypto
 https://news.bitcoin.com/how-to-use-cryptocurrency-to-send-money-abroad/
+
 
 
 
