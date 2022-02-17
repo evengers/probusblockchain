@@ -47,7 +47,9 @@ https://www.theguardian.com/technology/2022/feb/09/can-bitcoin-be-sustainable-in
 FINANCIAL
 
 
-Futures/Options: https://www.cmegroup.com/markets/cryptocurrencies/bitcoin/bitcoin.html
+Futures/Options:
+https://www.cmegroup.com/markets/cryptocurrencies/bitcoin/bitcoin.html
+https://copper.co/2019/04/08/whats-the-future-for-bitcoin-futures
 
 
 - See Google Finance tracker / Google sheets https://docs.google.com/spreadsheets/d/1PPBXgKYhR7cJNCvpQbq033jXN-p7cmJe2i_lBeYUyac/edit#gid=887949180
