@@ -41,6 +41,8 @@ SOCIAL IMPACT ... FUTURE TRENDS
 "... Bitcoin is going to become the currency of social movements ..." very scary
 https://toronto.ctvnews.ca/td-bank-to-hand-convoy-funds-to-court-as-organizers-turn-to-cryptocurrency-1.5778435
 
+https://markets.businessinsider.com/news/currencies/canadian-trucker-protest-raises-900000-bitcoin-musk-praise-gofundme-block-2022-2
+
 
 
 
