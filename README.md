@@ -42,6 +42,14 @@ how sustainable is it?
 https://www.theguardian.com/technology/2022/feb/09/can-bitcoin-be-sustainable-inside-the-norwegian-mine-that-also-dries-wood
 
 
+HOW TO  BUY SELL CASH TRANSFER CRYPTOCURRENCY
+
+Canadian crypto ATMS?  and various other ways to get cash
+https://blockgeeks.com/how-to-sell-bitcoin-in-canada/
+
+transfer/send to someone (the future for remittance market)
+https://news.bitcoin.com/how-to-use-cryptocurrency-to-send-money-abroad/
+
 
 
 FINANCIAL
